@@ -20,4 +20,25 @@ A simple Python-based SOC (Security Operations Center) tool that analyzes log fi
 
 ---
 
-## 📂 Project Structure
+---
+
+## 🔥 Future Improvements
+- Add timestamp-based detection
+- Export report (CSV)
+- Support multiple log formats (Linux/Windows)
+- Add severity levels
+
+---
+
+## 🎯 Use Case
+This project demonstrates basic SOC analyst skills:
+- Log analysis
+- Event correlation
+- Detection logic
+- Alert generation
+
+---
+
+## 👨‍💻 Author
+Teman Das  
+Cybersecurity Student | SOC Analyst Aspirant
